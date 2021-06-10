@@ -1,6 +1,12 @@
 # react-native-animation-utils
 
-Common react-native animation utilities
+⚡️ Animation utilities for React Native
+
+Inspired by Tailwind CSS
+
+<p align="center">
+<img height="600" width="auto" src="docs/anim.gif" />
+</p>
 
 ## Installation
 
@@ -8,19 +14,24 @@ Common react-native animation utilities
 npm install react-native-animation-utils
 ```
 
-## Usage
+or
 
-```js
-import AnimationUtils from "react-native-animation-utils";
-
-// ...
-
-const result = await AnimationUtils.multiply(3, 7);
+```sh
+yarn add react-native-animation-utils
 ```
 
-## Contributing
+## Usage
 
-See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the repository and the development workflow.
+More detailed documentation coming. See [example/](https://github.com/ecklf/react-native-animation-utils/tree/main/example) for now.
+
+<!-- ```js
+import { Bounce, Ping, Pulse, Spin } from "react-native-animation-utils";
+
+``` -->
+
+<!-- ## Contributing
+
+See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the repository and the development workflow. -->
 
 ## License
 
