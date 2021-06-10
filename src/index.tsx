@@ -1,5 +1,4 @@
-export default {
-  multiply(a: number, b: number) {
-    return Promise.resolve(a * b);
-  },
-};
+export { default as Bounce } from "./components/Bounce";
+export { default as Ping } from "./components/Ping";
+export { default as Pulse } from "./components/Pulse";
+export { default as Spin } from "./components/Spin";
