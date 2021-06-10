@@ -1,7 +1,7 @@
 {
   "name": "react-native-animation-utils",
   "version": "0.1.0",
-  "description": "Common react-native animation utilities",
+  "description": "Animation utilities for React Native",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
   "types": "lib/typescript/index.d.ts",
